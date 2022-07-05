@@ -100,3 +100,20 @@ body{
 .re-half p{
     text-align: justify;
 }
+.counting-section {
+    display: flex;
+    width: 94%;
+    box-shadow: 4px 10px 23px grey;
+    margin-left: 38px;
+    border-radius: 17px;
+    margin-bottom: 20px;
+}
+.counting {
+    padding: 30px 10%;
+    text-align: center;
+}
+.counting h1 {
+    font-weight: 600;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
