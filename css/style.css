@@ -11,13 +11,13 @@ body{
 }
 .half{
     width: 50%;
-    padding: 5%;
+    padding: 2% 5%;
 }
 .half img{
     width: 100%;
 }
 .half h1{
-    font-size: 40px;
+    font-size: 55px;
     font-weight: 700;
     color: #575757;
 }
@@ -27,4 +27,13 @@ body{
 .half p{
     color: #828282;
 }
-/* Heading Section Css code Start */
+.order_btn{
+    background-image: linear-gradient(salmon, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1.6px;
+}
+/* Heading Section Css code End */
