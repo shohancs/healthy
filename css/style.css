@@ -72,6 +72,13 @@ body{
 .recepe-section{
     display: flex;
 }
+.re-half {
+    box-shadow: 4px 10px 23px grey;
+    width: 100%;
+    margin: 39px 2%;
+    padding: 25px 40px 3px;
+    border-radius: 32px;
+}
 .rec{
     text-align: center;
     color: #575757;
@@ -82,4 +89,14 @@ body{
 }
 .rec p{
     color: #828282;
+}
+.re-half img{
+    width: 100%;
+}
+.re-half h3 {
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+.re-half p{
+    text-align: justify;
 }
