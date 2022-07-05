@@ -69,3 +69,17 @@ body{
     background-image: url(../images/shapes/7.png);
     background-repeat: no-repeat;
 }
+.recepe-section{
+    display: flex;
+}
+.rec{
+    text-align: center;
+    color: #575757;
+    padding: 0 5%;
+}
+.rec h1{
+    color: #575757;
+}
+.rec p{
+    color: #828282;
+}
