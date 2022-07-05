@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Heading Section Css code Start */
+.heading{
+    display: flex;
+    
+}
+.half{
+    width: 50%;
+    padding: 5%;
+}
+.half img{
+    width: 100%;
+}
+.half h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #575757;
+}
+.half span{
+    color: #FB8B47;
+}
+.half p{
+    color: #828282;
+}
+/* Heading Section Css code Start */
