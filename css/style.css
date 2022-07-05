@@ -1,11 +1,9 @@
 body{
-    padding: 0;
     margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-
-/* Heading Section Css code Start */
-.heading{
+.heading, .about-section{
     display: flex;
     
 }
@@ -13,7 +11,7 @@ body{
     width: 50%;
     padding: 2% 5%;
 }
-.half img{
+.half img, .about-section img{
     width: 100%;
 }
 .half h1{
@@ -26,6 +24,7 @@ body{
 }
 .half p{
     color: #828282;
+    text-align: justify;
 }
 .order_btn{
     background-image: linear-gradient(salmon, tomato);
@@ -36,4 +35,37 @@ body{
     font-weight: 600;
     letter-spacing: 1.6px;
 }
-/* Heading Section Css code End */
+.a_half{
+    width: 50%;
+    padding: 3% 5%;
+}
+.a_half img {
+    width: 65.5%;
+    padding-left: 75px;
+}
+.a_half h1{
+    font-size: 30px;
+    font-weight: 700;
+    color: #575757;
+}
+.a_half p{
+    color: #828282;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+#ab_right{
+    padding-top: 100px;
+}
+.contact_btn{
+    background-image: linear-gradient(salmon, tomato);
+    padding: 15px 40px;
+    border-radius: 40px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.about-section{
+    background-image: url(../images/shapes/7.png);
+    background-repeat: no-repeat;
+}
