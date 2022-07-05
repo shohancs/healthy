@@ -73,7 +73,7 @@ body{
     display: flex;
 }
 .re-half {
-    box-shadow: 4px 10px 23px grey;
+    box-shadow: 3px 10px 17px #ccc;
     width: 100%;
     margin: 39px 2%;
     padding: 25px 40px 3px;
@@ -103,7 +103,7 @@ body{
 .counting-section {
     display: flex;
     width: 94%;
-    box-shadow: 4px 10px 23px grey;
+    box-shadow: 3px 10px 17px #ccc;
     margin-left: 38px;
     border-radius: 17px;
     margin-bottom: 20px;
