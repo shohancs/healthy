@@ -117,3 +117,17 @@ body{
     font-size: 40px;
     margin-bottom: 0px;
 }
+footer {
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 24px;
+}
+footer h2{
+    color: #5A5A5A;
+}
+footer span{
+    color: #FB8B47;
+}
+footer p{
+    color: #818288;
+}
